@@ -6,5 +6,5 @@ Sql commands needed to build our project is also provided ( sql commands.docx ) 
 ## Technology used are :
 Front End : HTML , CSS , JAVASCRIPT , Java Server Pages (JSP) .
 Back End : Database(MySQL) , JAVA. IDE used : Eclipse.
-
+[You need to download apache tomcat server and provide its path in eclipse and servlet.api.jar, sevlet.jar]
 
